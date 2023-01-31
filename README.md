@@ -1,4 +1,3 @@
-### Hi there I'm Kelsy 👋
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif" width="100"/>
@@ -11,7 +10,10 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Indeed-blue?style=for-the-badge&logo=indeed&logoColor=white" alt="Indeed Badge"/>
   </a>
-</div
+</div>
+
+### Hi there I'm Kelsy 👋
+  
 
 - 🔭 I’m currently working on some React.j/Next.js projects
 - 🌱 I’m currently learning how to use Next.js, Tailwind and SASS
