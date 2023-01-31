@@ -12,7 +12,7 @@
   </a>
 </div>
 
-### Hi there I'm Kelsy 👋
+<div align="center" text-font="20px">### Hi there I'm Kelsy 👋</div>
   
 
 - 🔭 I’m currently working on some React.j/Next.js projects
@@ -21,4 +21,4 @@
 - 📫 How to reach me: kelsyohlsson@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: Although I just recently started coding, back in high school when I was looking at Universities my one interest was Computer Science
--->
+
