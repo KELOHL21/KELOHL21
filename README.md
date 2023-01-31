@@ -50,4 +50,6 @@
       <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="tailwindcss" **alt="tailwindcss" width="60" height="60"/>
 </div>
 
+---
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KELOHL21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
