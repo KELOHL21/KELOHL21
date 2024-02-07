@@ -25,12 +25,12 @@
 
 ### :woman_technologist: About Me :
 
-- 🔭 I’m currently working on some React.j/Next.js projects
-- 🌱 I’m currently learning how to use Next.js, Tailwind and SASS
-- 👯 I’m looking to collaborate on open source projects as well to learn more Frontened techniques.
+- 🔭 I’m currently working on some React.j/Next.js and UX/UI projects
+- 🌱 I’m currently learning how to use Figma, UX/UI fundamentals
+- 👯 I’m looking to continue to grow and learn new things within my career
 - 📫 How to reach me: kelsyohlsson@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Although I just recently started coding, back in high school when I was looking at Universities my one interest was Computer Science
+- ⚡ Fun fact: Venus is the only planet to spin clockwise
 
 ---
 
